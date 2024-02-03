@@ -1,0 +1,10 @@
+Let maxNumber represent the biggest number, set it to zero to start
+While there are still numbers left in the list
+    Look at the next number in the list
+    Compare it to the maxNumber
+        If next number is smaller than maxNumber
+            Set maxNumber to that numb*er
+Report maxNumber as the biggest in the list
+
+The error in the code will be, If next number is smaller than maxNumber, Set maxNumber to that number; the if 
+condition above will update maxNumber to the smallest number available instead of the biggest number available
